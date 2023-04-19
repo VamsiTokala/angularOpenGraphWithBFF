@@ -1,3 +1,5 @@
 export const environment = {
-  production: true
+  production: true,
+  bffUrl: 'https://localhost:7290'
 };
+
