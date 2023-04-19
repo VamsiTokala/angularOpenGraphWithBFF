@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TzZEZ17uc81JtFh++/joZWuh1lNv5DoqKdillo+PZCc=",
+  "Source": "YourBffAppName",
+  "BasePath": "_content/YourBffAppName",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
